@@ -9,7 +9,20 @@ Telegram BOT made in python that shows random images when it's called.
 - requests → `pip install requests`
 - bs4 → `pip install bs4`
 
+### command
+- **/kleber** → show a random image.
+
 ## discord
+
+Discord BOT made in python that shows random images when it's called.
+
+### requirements
+- discord → `pip install discord`
+- bs4 → `pip install bs4`
+- requests → `pip install requests`
+
+### command
+- **!kleber** → show a random image.
 
 ### invite link 
 
