@@ -11,4 +11,6 @@ Telegram BOT made in python that shows random images when it's called.
 
 ## discord
 
-...soon...
+### invite link 
+
+https://discordapp.com/oauth2/authorize?&client_id=469988456345501714&scope=bot&permissions=470019135
