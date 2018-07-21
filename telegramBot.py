@@ -2,7 +2,7 @@ import telepot
 import requests
 from bs4 import BeautifulSoup
 
-bot = telepot.Bot('681198688:AAE-GrSWuSorq2Gsu6ho_uU-FfXYzDFT5jY')
+bot = telepot.Bot('*** TOKEN HERE ***')
 
 def getImg(id):
     url = 'http://www.funcage.com'
