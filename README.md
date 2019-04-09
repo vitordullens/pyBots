@@ -7,7 +7,7 @@ Telegram BOT made in python that shows random images when it's called.
 ### requirements
 - [telepot](https://github.com/nickoala/telepot) → `pip install telepot` or `python3 setup.py install`
 - requests → `pip install requests`
-- bs4 → `pip install bs4`
+- beautifulsoup4 → `pip install beautifulsoup4`
 
 ### command
 - **/kleber** → show a random image.
@@ -18,7 +18,7 @@ Discord BOT made in python that shows random images when it's called.
 
 ### requirements
 - discord → `pip install discord`
-- bs4 → `pip install bs4`
+- beautifulsoup4 → `pip install beautifulsoup4`
 - requests → `pip install requests`
 
 ### command
